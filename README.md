@@ -1,7 +1,7 @@
 # 100DAYSOFCODE
 A log of all my coding tasks during the School of Code
 
-<emphasis>DAY 1</emphasis>
+DAY 1
 Arrays
 
 DAY 2 
