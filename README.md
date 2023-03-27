@@ -116,3 +116,5 @@ async function getCatPic() {
 console.log(getCatPic());
 
 Day 10
+
+CSS Flexbox & CSS Grid
