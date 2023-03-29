@@ -117,4 +117,8 @@ console.log(getCatPic());
 
 Day 10
 
-CSS Flexbox & CSS Grid
+CSS Flexbox & CSS Grid. Introduction to the flexbox and grid. Understanding the concepts behind them and having a play with its functionality.
+
+Day 11
+
+Clone a page using HTML & CSS. I cloned Uber Eats home page from scratch, including adding a navigation bar, new background, new fonts with sizing and search bar.
