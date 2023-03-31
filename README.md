@@ -122,3 +122,14 @@ CSS Flexbox & CSS Grid. Introduction to the flexbox and grid. Understanding the 
 Day 11
 
 Clone a page using HTML & CSS. I cloned Uber Eats home page from scratch, including adding a navigation bar, new background, new fonts with sizing and search bar.
+
+Day 12
+
+Using figma to create wireframes. 
+
+Day 13 - Hackathon
+
+Using our knowledge of figma and wireframes, we created a UI/UX experience for a fictional bootcamp. Reseaching our business, its competitors (The School of Music Production) to create user personas for our target audience to design our website appropriately.
+
+See a pdf of our website here ---> [SoM.pdf](https://github.com/lastcastleofbowser/100DAYSOFCODE/files/11124026/SoM.pdf)
+
