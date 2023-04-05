@@ -1,5 +1,4 @@
-# 100DAYSOFCODE / School of Code Diary
-_A log of all my coding tasks during the School of Code_
+# 100DAYSOFCODE / School of Code Diary 
 
 ## DAY 1
 _15th March_
