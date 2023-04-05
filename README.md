@@ -171,6 +171,13 @@ See a pdf of our website here ---> [SoM.pdf](https://github.com/lastcastleofbows
 ## Day 13 (HWK)
 _1st & 2nd April_
 
+Creating a wireframe and mock up for my own personal website. I used figma to create my design and I am in the stages of using HTML, CSS and JS to code it into a fully operational website to display my work.
+
+![Landing_Page](https://user-images.githubusercontent.com/123087687/230148452-609a635f-4315-47ab-9370-e1fce0e8c06f.png)
+![Work_Page](https://user-images.githubusercontent.com/123087687/230148491-91f550d5-980c-44a1-b529-1b4ac1f57205.png)
+![About_Page](https://user-images.githubusercontent.com/123087687/230148505-bf698008-235a-4a5a-8e1f-486f30b2c52d.png)
+![Contact_Page](https://user-images.githubusercontent.com/123087687/230148512-aa250c64-2159-4df2-8fa8-36c28b20f0dc.png)
+
 
 ## Day 14
 _3rd April_
@@ -181,7 +188,8 @@ CODEWARS - String repeat (8KYU)
  - call js files using node
  - create json files
  - install third party code for running tests
- 
+<img src = "https://user-images.githubusercontent.com/123087687/230150744-07ff365d-1ac5-4f0c-bcf2-5948e77ac827.png" width = "1000" height = "200">
+
 ## Day 15 
 _4th April_
 
@@ -190,7 +198,7 @@ CODEWARS - Keep Hydrated (8kyu)
 Introduction to Jest testing. We learnt how to:
 - import and export code from different js files
 - use matchers to test our functions were operating as they should
-
+<img src = "https://user-images.githubusercontent.com/123087687/230148956-aa40368a-bfb6-4c9e-bb27-3f51dbe261db.png" width = "830" height = "200">
 
 ## Day 16
 _5th April_
@@ -202,6 +210,9 @@ Introduction to Playwright. In our groups we had a webpage to write end-to-end t
 - how to select areas within a webpage
 - how to use actions, locators and assertions
 - how to use tests to enter text and navigate within a page to check its functionality
+<img src = "https://user-images.githubusercontent.com/123087687/230148825-798e7a0d-8aa7-49ce-9b50-ff6d2117f1df.png" width = "1000" height = "200">
+
+
 
 ## Day 17 - HACKATHON
 _6th April_
