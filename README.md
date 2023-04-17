@@ -217,23 +217,77 @@ Introduction to Playwright. In our groups we had a webpage to write end-to-end t
 ## Day 17 - HACKATHON
 _6th April_
 
+Playwright testing challenge
+
 
 ## Day 18 (HWK)
 _7th - 9th April_
 
+Playwright Hwk challenge
+
 ## Day 19
 _11th April_
+![Screenshot 2023-04-13 at 16 51 45](https://user-images.githubusercontent.com/123087687/232526622-64c6de8f-84ee-46f0-8d6c-e9f01e9c14f2.png)
+![Screenshot 2023-04-13 at 16 52 41](https://user-images.githubusercontent.com/123087687/232526624-47d7eb71-9ce1-4169-af11-440491453909.png)
+![Screenshot 2023-04-13 at 16 51 36](https://user-images.githubusercontent.com/123087687/232526628-9207bb00-ec25-4346-a989-7ecfc462da08.png)
 
 
 ## Day 20
 _12th April_
+![Screenshot 2023-04-13 at 16 57 18](https://user-images.githubusercontent.com/123087687/232526658-7e228129-b2ad-445e-9d84-8c9ada40e051.png)
+![Screenshot 2023-04-13 at 16 57 34](https://user-images.githubusercontent.com/123087687/232526662-4c98f62c-80b4-4d5d-a8cb-0c0f76913894.png)
+![Screenshot 2023-04-13 at 16 57 40](https://user-images.githubusercontent.com/123087687/232526669-4dce381e-0187-48ec-a804-3655e64a7f76.png)
+![Screenshot 2023-04-13 at 16 57 05](https://user-images.githubusercontent.com/123087687/232526671-3c36f2ea-123a-421d-8f89-95775e9d3e54.png)
 
 
 ## Day 21
 _13th April_
 
+![Screenshot 2023-04-13 at 16 33 57](https://user-images.githubusercontent.com/123087687/232526303-14969bcd-9466-4983-ad58-4798e26f91c0.png)
+![Screenshot 2023-04-13 at 16 34 14](https://user-images.githubusercontent.com/123087687/232526309-7fdc2cd1-9164-42b6-b536-00c717316b72.png)
+![Screenshot 2023-04-13 at 16 34 07](https://user-images.githubusercontent.com/123087687/232526312-99eb2460-e0dc-4fcf-b881-b319e2a5eb15.png)
 
 ## Day 22 - HACKATHON
 _14th April_
+
+Creating a Todo list in React with the following features:
+- a text input where the todos can be typed
+- includes an add button
+- using the spread operator to add the item to the end of the list
+- includes a functioning delete button
+
+## Day 23 - (HWK)
+_15th April - 16th April _
+
+Creating a blogpost page in React with the following features:
+- a blogpost containing images, captions and text
+- a comment list underneath the main blogpost
+- a comment input textbox that allows users to type in their own comment 
+- the comment list to add to the end of the lists and not effect them
+
+
+## Day 24
+_17th April_
+Introduction to useEffects.
+- Changing the document title of a document when todo list is updated.
+
+![useEffect changing the title of a document when to do list updates ](https://user-images.githubusercontent.com/123087687/232524437-87af4371-845b-46be-84f9-b255a339b6b7.png)
+
+
+## Day 25
+_18th April_
+
+
+## Day 26
+_19th April_
+
+## Day 27
+_20th April_
+
+## Day 28 - HACKATHON
+_21st April_
+
+
+
 
 
